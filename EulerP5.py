@@ -1,4 +1,4 @@
-# Prompt from Hackerrank's Project Euler Problem #5
+#Prompt from Hackerrank's Project Euler Problem #5
 #please visit: https://www.hackerrank.com/contests/projecteuler/challenges/euler005
 
 import fileinput
